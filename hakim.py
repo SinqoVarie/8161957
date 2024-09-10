@@ -1,7 +1,4 @@
-import platform
 
-if 'chaquopy' not in platform.python_implementation().lower():
-    raise RuntimeError("Sory You Are Just Noob Crack")
 
 
 import socket
