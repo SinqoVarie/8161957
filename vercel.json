@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/like/(.*)",
+      "src": "/(.*)",
       "dest": "app.py"
     }
   ]
